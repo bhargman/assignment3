@@ -1,4 +1,4 @@
-# CSCI 380-04: Assignment 3 - Due by 11:59 PM, Mar 27th, 2019
+# CSCI 380-01: Assignment 3 - Due by 11:59 PM, Nov 20th, 2019
 * * * 
 
 	 By now, you should have Android Studio setup with an emulator. This assignment will let you play 
